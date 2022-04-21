@@ -9,4 +9,4 @@ Early testers includes Jim, Harry, and Nathan.
 The game will be released soon, stay tuned for updates!
 
 ---
-Copyright © Coadon, 2022.
+Copyright © Getaway Devs, 2022.
