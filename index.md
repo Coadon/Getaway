@@ -2,9 +2,10 @@
 
 "Getaway" is a simple indie game where a green dude tries to tag you and you tries to avoid it as long as you can.
 
-**You can download the latest version of the game [here](https://github.com/Coadon/getaway/releases/download/v0.0.6/Getaway-Mac.zip).**
+**You can download the latest snapshot of the game [here](https://github.com/Coadon/getaway/releases/download/v0.0.6/Getaway-Mac.zip).**
+*Mac distributions only, no Windows yet...*
 
-It is still under heavy development with itself being just a prototype.
+It is still work in progress.
 
 The game will be released soon, stay tuned for updates!
 
